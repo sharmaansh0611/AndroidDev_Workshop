@@ -3,3 +3,9 @@
 
 
     // To be pasted in app level build.gradle
+
+
+
+
+// added firebase ui
+    implementation ("com.firebaseui:firebase-ui-firestore:8.0.2")
